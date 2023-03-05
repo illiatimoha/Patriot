@@ -107,7 +107,7 @@ function filter($value) {
      
 
 
-header('Location: ' . $success_url);
+header('Location: ./spasibo/index.html');
 
 ?>
 
